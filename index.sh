@@ -1,4 +1,4 @@
-echo "hello"
+echo "hello g"
 date
 cal
 whoami
